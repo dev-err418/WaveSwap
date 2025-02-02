@@ -1,7 +1,7 @@
 # WaveSwap
 Season 6 of the Canto Online Hackathon 
 
-Website : (only on testnet (chainId: 7701) https://waveswap.pages.dev/
+Website : (only on testnet (chainId: 7701) [https://waveswap.pages.dev/](https://wave-swap.vercel.app/)
 
 Twitter : @WaveSwapFi
 
